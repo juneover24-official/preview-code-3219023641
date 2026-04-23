@@ -1,0 +1,55 @@
+{
+  "qq_number": "3219023641",
+  "group_number": "789600681",
+  "updated_at": "2026-04-23T15:52:38.239311",
+  "skins": [
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小虞爱心乳制品.bdi",
+      "thumb": "小虞爱心乳制品.bdi_py_26_light_thumb.png",
+      "full": "小虞爱心乳制品.bdi_py_26_light.png"
+    },
+    {
+      "name": "小虞满分牛乳",
+      "file": "小虞满分牛乳.bdi",
+      "thumb": "小虞满分牛乳.bdi_py_26_light_thumb.png",
+      "full": "小虞满分牛乳.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小虞回应我的祈愿.bdi",
+      "thumb": "小虞回应我的祈愿.bdi_py_26_light_thumb.png",
+      "full": "小虞回应我的祈愿.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "小虞一勺草莓奶油.bdi",
+      "thumb": "小虞一勺草莓奶油.bdi_py_26_light_thumb.png",
+      "full": "小虞一勺草莓奶油.bdi_py_26_light.png"
+    },
+    {
+      "name": "小虞爱心乳制品",
+      "file": "小虞爱心乳制品.bds",
+      "thumb": "小虞爱心乳制品.bds_py_26_light_thumb.png",
+      "full": "小虞爱心乳制品.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小虞回应我的祈愿.bds",
+      "thumb": "小虞回应我的祈愿.bds_py_26_light_thumb.png",
+      "full": "小虞回应我的祈愿.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小虞一勺草莓奶油.bds",
+      "thumb": "小虞一勺草莓奶油.bds_py_26_light_thumb.png",
+      "full": "小虞一勺草莓奶油.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小虞满分牛乳.bds",
+      "thumb": "小虞满分牛乳.bds_py_26_light_thumb.png",
+      "full": "小虞满分牛乳.bds_py_26_light.png"
+    }
+  ]
+}

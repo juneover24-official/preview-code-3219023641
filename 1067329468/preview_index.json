@@ -1,0 +1,19 @@
+{
+  "qq_number": "3219023641",
+  "group_number": "1067329468",
+  "updated_at": "2026-04-23T15:52:35.276278",
+  "skins": [
+    {
+      "name": "虞の酸奶碗和小叽",
+      "file": "虞の酸奶碗小叽.bdi",
+      "thumb": "虞の酸奶碗小叽.bdi_py_26_default_thumb.png",
+      "full": "虞の酸奶碗小叽.bdi_py_26_default.png"
+    },
+    {
+      "name": "虞の酸奶碗和小叽彩底",
+      "file": "虞の酸奶碗小叽彩底.bds",
+      "thumb": "虞の酸奶碗小叽彩底.bds_py_26_default_thumb.png",
+      "full": "虞の酸奶碗小叽彩底.bds_py_26_default.png"
+    }
+  ]
+}
