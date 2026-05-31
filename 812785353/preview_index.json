@@ -1,7 +1,7 @@
 {
   "qq_number": "3219023641",
   "group_number": "812785353",
-  "updated_at": "2026-04-23T15:52:35.412362",
+  "updated_at": "2026-05-31T08:15:22+00:00",
   "skins": [
     {
       "name": "小虞酸莓烙印",
@@ -146,6 +146,12 @@
       "file": "虞の姬金鱼草与黑曼巴蛇11.bds",
       "thumb": "虞の姬金鱼草与黑曼巴蛇11.bds_py_26_default_thumb.png",
       "full": "虞の姬金鱼草与黑曼巴蛇11.bds_py_26_default.png"
+    },
+    {
+      "name": "小虞奶萝萌兔研究室",
+      "file": "奶萝萌兔研究室.bdi",
+      "thumb": "奶萝萌兔研究室.bdi_py_26_light_thumb.png",
+      "full": "奶萝萌兔研究室.bdi_py_26_light_thumb.png"
     }
   ]
 }
