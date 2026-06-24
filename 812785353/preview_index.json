@@ -1,7 +1,7 @@
 {
   "qq_number": "3219023641",
   "group_number": "812785353",
-  "updated_at": "2026-06-16T14:01:49+00:00",
+  "updated_at": "2026-06-24T18:11:36+00:00",
   "skins": [
     {
       "name": "小虞酸莓烙印",
@@ -176,6 +176,12 @@
       "file": "小虞奶油纯物语.bdi",
       "thumb": "小虞奶油纯物语.bdi_py_26_light_thumb.png",
       "full": "小虞奶油纯物语.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "小虞小乳兔1.bds",
+      "thumb": "小虞小乳兔1.bds_py_26_light_thumb.png",
+      "full": "小虞小乳兔1.bds_py_26_light_thumb.png"
     }
   ]
 }
