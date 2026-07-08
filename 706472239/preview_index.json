@@ -1,19 +1,13 @@
 {
   "qq_number": "3219023641",
   "group_number": "706472239",
-  "updated_at": "2026-07-07T15:07:58+00:00",
+  "updated_at": "2026-07-08T10:16:19+00:00",
   "skins": [
     {
       "name": "乐妍底包",
       "file": "小虞将白色奶油变成杀死我的刀.bdi",
       "thumb": "小虞将白色奶油变成杀死我的刀.bdi_py_26_light_thumb.png",
       "full": "小虞将白色奶油变成杀死我的刀.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "名字不建议加多余的符号",
-      "file": "小虞我就这样萌萌的吃奶油.bdi",
-      "thumb": "小虞我就这样萌萌的吃奶油.bdi_py_26_light_thumb.png",
-      "full": "小虞我就这样萌萌的吃奶油.bdi_py_26_light_thumb.png"
     }
   ]
 }
