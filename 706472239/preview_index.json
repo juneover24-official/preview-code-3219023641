@@ -1,7 +1,7 @@
 {
   "qq_number": "3219023641",
   "group_number": "706472239",
-  "updated_at": "2026-07-23T04:55:52+00:00",
+  "updated_at": "2026-07-23T05:04:26+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -28,16 +28,16 @@
       "full": "一只熊熊布丁脆.bds_py_26_light_thumb.png"
     },
     {
-      "name": "一只熊熊布丁 脆",
-      "file": "一只熊熊布丁脆.bdi",
-      "thumb": "一只熊熊布丁脆.bdi_py_26_light_thumb.png",
-      "full": "一只熊熊布丁脆.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "一只熊熊布丁 闷",
       "file": "一只熊熊布丁闷.bdi",
       "thumb": "一只熊熊布丁闷.bdi_py_26_light_thumb.png",
       "full": "一只熊熊布丁闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "一只熊熊布丁 脆",
+      "file": "一只熊熊布丁脆.bdi",
+      "thumb": "一只熊熊布丁脆.bdi_py_26_light_thumb.png",
+      "full": "一只熊熊布丁脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
