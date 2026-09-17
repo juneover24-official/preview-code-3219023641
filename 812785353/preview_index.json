@@ -1,7 +1,7 @@
 {
   "qq_number": "3219023641",
   "group_number": "812785353",
-  "updated_at": "2026-09-17T05:23:46+00:00",
+  "updated_at": "2026-09-17T05:25:33+00:00",
   "skins": [
     {
       "name": "小虞酸莓烙印",
@@ -170,6 +170,12 @@
       "file": "小虞小乳兔1.bds",
       "thumb": "小虞小乳兔1.bds_py_26_light_thumb.png",
       "full": "小虞小乳兔1.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小虞给我一双天使的翅膀.bdi",
+      "thumb": "小虞给我一双天使的翅膀.bdi_py_26_light_thumb.png",
+      "full": "小虞给我一双天使的翅膀.bdi_py_26_light_thumb.png"
     }
   ]
 }
