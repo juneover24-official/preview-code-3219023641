@@ -1,7 +1,7 @@
 {
   "qq_number": "3219023641",
   "group_number": "706472239",
-  "updated_at": "2026-09-19T11:09:23+00:00",
+  "updated_at": "2026-09-19T11:10:32+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -64,6 +64,13 @@
       "thumb": "小虞给我一颗幼稚的玩偶心.bdi_py_26_light_thumb.png",
       "full": "小虞给我一颗幼稚的玩偶心.bdi_py_26_light_thumb.png",
       "file_id": "3b4a491b4f6f036e645a82747e0d3014"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小虞幼稚玩偶心音2.bdi",
+      "thumb": "小虞幼稚玩偶心音2.bdi_py_26_light_thumb.png",
+      "full": "小虞幼稚玩偶心音2.bdi_py_26_light_thumb.png",
+      "file_id": "da75f66eb7660794f409b21c318df009"
     }
   ]
 }
