@@ -1,7 +1,7 @@
 {
   "qq_number": "3219023641",
   "group_number": "812785353",
-  "updated_at": "2026-10-04T19:12:59+00:00",
+  "updated_at": "2026-10-04T19:13:07+00:00",
   "skins": [
     {
       "name": "小虞酸莓烙印",
@@ -191,12 +191,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "小虞小熊奶酪饼27融.bdi",
-      "thumb": "小虞小熊奶酪饼27融.bdi_py_26_light_thumb.png",
-      "full": "小虞小熊奶酪饼27融.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "乐妍底包",
       "file": "小虞小熊奶酪饼.bds",
       "thumb": "小虞小熊奶酪饼.bds_py_26_light_thumb.png",
       "full": "小虞小熊奶酪饼.bds_py_26_light_thumb.png"
@@ -206,6 +200,12 @@
       "file": "小虞小熊奶酪饼.bdi",
       "thumb": "小虞小熊奶酪饼.bdi_py_26_light_thumb.png",
       "full": "小虞小熊奶酪饼.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小虞小熊奶酪饼27融.bdi",
+      "thumb": "小虞小熊奶酪饼27融.bdi_py_26_light_thumb.png",
+      "full": "小虞小熊奶酪饼27融.bdi_py_26_light_thumb.png"
     }
   ]
 }
