@@ -1,7 +1,7 @@
 {
   "qq_number": "3219023641",
   "group_number": "812785353",
-  "updated_at": "2026-11-24T14:15:03+00:00",
+  "updated_at": "2026-11-24T14:15:44+00:00",
   "skins": [
     {
       "name": "小虞酸莓烙印",
@@ -218,6 +218,12 @@
       "file": "小虞兎儿萌化软奶油.bds",
       "thumb": "小虞兎儿萌化软奶油.bds_py_26_light_thumb.png",
       "full": "小虞兎儿萌化软奶油.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "小虞兎儿萌化软奶油27融.bdi",
+      "thumb": "小虞兎儿萌化软奶油27融.bdi_py_26_light_thumb.png",
+      "full": "小虞兎儿萌化软奶油27融.bdi_py_26_light_thumb.png"
     }
   ]
 }
